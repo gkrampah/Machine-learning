@@ -1,4 +1,4 @@
-name: /home/godwin/Desktop/Organised/python/python/machine_learning_dir/venv
+name: /home/godwin/Desktop/Organised/python/python/machine_learning_dir/.venv
 channels:
   - districtdatalabs
   - anaconda
@@ -147,4 +147,4 @@ dependencies:
   - zipp=3.8.0=py39h06a4308_0
   - zlib=1.2.12=h7f8727e_2
   - zstd=1.4.9=haebb681_0
-prefix: /home/godwin/Desktop/Organised/python/python/machine_learning_dir/venv
+prefix: /home/godwin/Desktop/Organised/python/python/machine_learning_dir/.venv
